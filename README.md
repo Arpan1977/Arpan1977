@@ -6,7 +6,7 @@
 ## 🚀 About Me  
 🔹 Computer Science & IT Student  
 🔹 Frontend Developer | Data Entrty |  
-🔹 Passionate about **System Analysis, Cloud Computing, and AI-driven solutions**  
+🔹 Passionate about **Web Development, Data Entry, Graphics designing**  
 
 💡 *“Turning ideas into code, and code into impact.”*  
 
@@ -18,7 +18,9 @@
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+
 
 ### 🌐 Web Development  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -28,10 +30,9 @@
 
 ## 🤝 Connect With Me  
 
-[![Email](https://img.shields.io/badge/Email-arpangautam944%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:arpangautam944@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/gautamarpan7)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://facebook.com/arpan.gautam.528)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/gautamarpan7)
+[![Email](https://img.shields.io/badge/Email-arpangautam944%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:arpangautam944@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://yourwebsite.com)  
 
 ---
